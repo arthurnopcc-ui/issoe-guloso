@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "tec tec guloso",
     "password": "",
     "type": "offline"
   },
@@ -21,7 +21,7 @@
       "enabled": true,
       "password": "Slobos"
     },
-    "anti-afk": true {
+    "anti-afk": {
       "enabled": true,
       "sneak": true
     },
